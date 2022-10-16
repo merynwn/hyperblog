@@ -1,2 +1,2 @@
 # hyperblog
-Un blog de prueba increible xd
+Un blog de prueba increible
